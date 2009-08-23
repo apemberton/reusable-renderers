@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="PS_HOME/server/default/deploy/jboss-portal.sar/lib/portal-theme-lib.jar" sourcepath="/PS_HOME/docs/src/jboss-portal-2.7.2-src"/>
+	<classpathentry kind="var" path="PS_HOME/server/default/deploy/jboss-portal.sar/lib/portal-common-portal-lib.jar" sourcepath="/PS_HOME/docs/src/jboss-portal-2.7.2-src"/>
+	<classpathentry kind="var" path="PS_HOME/server/default/deploy/jboss-portal.sar/lib/portal-web-lib.jar"/>
+	<classpathentry kind="var" path="PS_HOME/server/default/lib/servlet-api.jar"/>
+	
+	<classpathentry kind="output" path="bin"/>
+</classpath>
