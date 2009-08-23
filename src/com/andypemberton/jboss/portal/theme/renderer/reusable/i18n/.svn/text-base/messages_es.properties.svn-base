@@ -1,9 +1,0 @@
-renderer.portlet.mode.edit=Corrija esta ventana
-renderer.portlet.mode.view=Vea esta ventana
-renderer.portlet.mode.help=Consiga la ayuda con esta ventana
-
-# renderer.portlet.windowstate.maximized=Maximice esta ventana
-renderer.portlet.windowstate.minimized=Reduzca al m\u00EDnimo esta ventana
-renderer.portlet.windowstate.normal=Vuelva la ventana a la visi\u00F3n normal
-
-renderer.portlet.skip=Salte esta ventana
